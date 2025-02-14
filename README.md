@@ -29,11 +29,9 @@ Platform
 Developed and tested on Windows 10
 Compatible with MacOS and Linux
 
-
-#section 2:Repo-Structure
+Section 2: Repository Structure
 ProjectFolder/
-│-- data/                 # Contains raw and processed datasets
-│   │-- reviews.csv       # Main dataset used in analysis
+│-- data/                 # Contains instructions to obtain data and data appendix for refrence 
 │-- scripts/              # Source code directory
 │   │-- MI2_eda.ipynb     # Data preprocessing script
 │   │-- MI3.ipynb         # Sentiment analysis script
